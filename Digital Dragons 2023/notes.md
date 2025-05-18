@@ -3,6 +3,8 @@
 
 Talk was originally presented at Digital Dragons in Krakow, May 15th 2023.
 
+[Video](https://www.youtube.com/watch?v=GLtxJpiIwLU)
+
 ## Sources:
 
 - Chealsa Troy - 'Stop saying technical debt' - https://stackoverflow.blog/2023/02/27/stop-saying-technical-debt/
