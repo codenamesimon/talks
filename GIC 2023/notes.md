@@ -1,7 +1,9 @@
 # Game Industry Conference 2023
 > Architecture in Games Development
 
-Talk was originally presented at GIC in Poznań, October 7th 2023.
+Talk was originally presented at GIC in Poznań, October 7th 2023. 
+
+[Video](https://www.youtube.com/watch?v=7jqYgGqRYZk&t=33s&ab_channel=GameIndustryConference)
 
 ## Sources:
 
